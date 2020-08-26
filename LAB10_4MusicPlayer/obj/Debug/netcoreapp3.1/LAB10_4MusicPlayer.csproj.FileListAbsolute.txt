@@ -1,0 +1,13 @@
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\obj\Debug\netcoreapp3.1\LAB10_4MusicPlayer.csprojAssemblyReference.cache
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\obj\Debug\netcoreapp3.1\LAB10_4MusicPlayer.AssemblyInfoInputs.cache
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\obj\Debug\netcoreapp3.1\LAB10_4MusicPlayer.AssemblyInfo.cs
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\obj\Debug\netcoreapp3.1\LAB10_4MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\bin\Debug\netcoreapp3.1\LAB10_4MusicPlayer.exe
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\bin\Debug\netcoreapp3.1\LAB10_4MusicPlayer.deps.json
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\bin\Debug\netcoreapp3.1\LAB10_4MusicPlayer.runtimeconfig.json
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\bin\Debug\netcoreapp3.1\LAB10_4MusicPlayer.runtimeconfig.dev.json
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\bin\Debug\netcoreapp3.1\LAB10_4MusicPlayer.dll
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\bin\Debug\netcoreapp3.1\LAB10_4MusicPlayer.pdb
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\obj\Debug\netcoreapp3.1\LAB10_4MusicPlayer.dll
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\obj\Debug\netcoreapp3.1\LAB10_4MusicPlayer.pdb
+C:\Users\nalle\source\repos\LAB10_4MusicPlayer\LAB10_4MusicPlayer\obj\Debug\netcoreapp3.1\LAB10_4MusicPlayer.genruntimeconfig.cache
